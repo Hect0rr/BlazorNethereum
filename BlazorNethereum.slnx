@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="BlazorNethereum.HardHatLauncher/BlazorNethereum.HardHatLauncher.csproj" />
+  <Project Path="BlazorNethereum.SPA.TestLauncher/BlazorNethereum.SPA.TestLauncher.csproj" />
   <Project Path="BlazorNethereum.SPA/BlazorNethereum.SPA.csproj" />
 </Solution>
